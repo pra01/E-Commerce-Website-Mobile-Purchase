@@ -7,7 +7,7 @@ const ProductContext = React.createContext();
   state={
       products:[],
       detailProduct:detailProduct,
-   cart: storeProducts,
+   cart:[] ,
    modalOpen: false,
    modalProduct: detailProduct,
   cartSubTotal: 0,
