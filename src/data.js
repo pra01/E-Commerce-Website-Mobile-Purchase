@@ -11,7 +11,7 @@ export const storeProducts = [
     price: 10,
     company: "GOOGLE",
     info:
-      "The Google Pixel mobile features a 5.0" (12.7 cm) display with a screen resolution of Full HD (1080 x 1920 pixels) and runs on Android v7.1.1 (Nougat) operating system. The device is powered by Quad core (2.15 GHz, Dual core, Kryo + 1.6 GHz, Dual core, Kryo) processor paired with 4 GB of RAM. ",
+      "The Google Pixel mobile features a 5.0 (12.7 cm) display with a screen resolution of Full HD (1080 x 1920 pixels) and runs on Android v7.1.1 (Nougat) operating system. The device is powered by Quad core (2.15 GHz, Dual core, Kryo + 1.6 GHz, Dual core, Kryo) processor paired with 4 GB of RAM. ",
     inCart: false,
     count: 0,
     total: 0
@@ -83,8 +83,7 @@ export const storeProducts = [
     price: 30,
     company: "apple",
     info:
-      "The Apple iPhone 7 mobile features a 4.7" (11.94 cm) display with a screen resolution of 750 x 1334 pixels and runs on iOS v10 operating system. The device is powered by Quad core (2.34 GHz, Dual core, Hurricane + 1.1 GHz, Dual core, Zephyr) processor paired with 2 GB of RAM.
-Ram: 2 GB",
+      "The Apple iPhone 7 mobile features a 4.7  (11.94 cm) display with a screen resolution of 750 x 1334 pixels and runs on iOS v10 operating system. The device is powered by Quad core (2.34 GHz, Dual core, Hurricane + 1.1 GHz, Dual core, Zephyr) processor paired with 2 GB of RAM.",
     inCart: false,
     count: 0,
     total: 0
